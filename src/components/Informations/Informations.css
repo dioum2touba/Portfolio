@@ -1,0 +1,82 @@
+i {
+    color:  #243141;
+    background-color: white;
+    font-size: 30px;
+}
+
+.titleInformation {
+    color:  #243141;
+    font-size: 25px;
+}
+
+.dioum {
+    color: #fff!important;
+    background-color: #243141!important;
+    width: 190%;
+    height: 3%;
+    margin-top: 3%;
+    padding: 0.5%;
+    /* margin-left: 9%; */
+}
+
+.informations {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: #243141 solid 2px;
+    border-radius: 2em;
+}
+
+.input-group-prepend {
+    color: white;
+    background-color: #243141;
+}
+
+.input-group-text {
+    display: flex;
+    align-items: center;
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color:white;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #243141;
+    border: 1px solid #243141;
+    border-radius: .25rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #243141;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #243141;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.CapsuleContact {
+    width: 60%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+@media (min-width: 500px) {
+    .CapsuleContact {
+        width: 710px;
+        padding-top: 4%;
+        margin-top: 8%;
+    }
+}
