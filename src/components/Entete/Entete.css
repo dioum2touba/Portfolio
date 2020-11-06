@@ -1,0 +1,24 @@
+.enTete {
+    width: 100%;
+    font-size: 25px;
+}
+
+.cvH2 .cvP {
+    float: left;
+}
+
+.cvP, i {
+    color: darkgray;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.enteteRight {
+    float: right;
+    font-size: 30px;
+    padding-right: 5%;
+}
+
+.App {
+    margin: auto;
+}
