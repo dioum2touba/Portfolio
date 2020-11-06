@@ -25,6 +25,7 @@ const Menu = (props) => {
               </TabPaneItem>
               <TabPaneItem eventKey="Experience">
                 <Informations Infos="Année(s) d'expérience" />
+                <Contacts informations_list={props.anne_experience} />
               </TabPaneItem>
               <TabPaneItem eventKey="Education">
                 <Informations Infos="Education" />

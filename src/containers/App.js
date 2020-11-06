@@ -29,8 +29,11 @@ class App extends Component {
       {Label: "Téléphone 2:", Valeur: "(+221) 76 188 35 12"},
     ],
 
-    anne_experience: [
-
+    anne_experience: [      
+      {Label: "Nombre année", Valeur: "2 ans (deux années)"},
+      {Label: "Date de démarrage", Valeur: "08 Novembre 2018"},
+      {Label: "Jusqu'à aujourd'hui", Valeur: new Date() },
+      {Label: "organisation", Valeur: "Obertys - Technologie financière"},
     ],
   }
 
@@ -45,7 +48,8 @@ class App extends Component {
             <Col>
               <Menu 
                 menus_list={this.state.menus_list}
-                informations_list={this.state.informations_list}              
+                informations_list={this.state.informations_list}
+                anne_experience = {this.state.anne_experience}              
               />
             </Col>
         </Container>
