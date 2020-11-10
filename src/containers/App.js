@@ -1,62 +1,25 @@
-import Entete from "../components/Entete/Entete";
-import Menu from "./Menu";
-import "./App.css";
-// or less ideally
-import { Container, Col } from "react-bootstrap";
-import { Component } from "react";
+import React, { Component } from 'react';
+import Layout from '../layouts/Layout';
+import data from '../assets/data/data.json';
 
 class App extends Component {
-  constructor(props) {
-    super(props);
-    console.log('[App.js] constructor');
-  }
-
   state = {
-    menus_list: [
-      {id: 'Informations', name: 'Informations'},
-      {id: 'Experience', name: "Année(s) d'expérience"},
-      {id: 'Education', name: 'Education'},
-      {id: 'CompetenceGeneral', name: 'Compétences générales'},
-      {id: 'CompetenceTechniques', name: 'Compétences techniques'},
-      {id: 'ExperiencesProfessionnelles', name: 'Expériences professionnelles'},
-      {id: 'Langues', name: 'Langues'},
-    ],
-    
-    informations_list: [
-      {Label: "E-mail 1:", Valeur: "dioum2touba@gmail.com"},
-      {Label: "E-mail 2:", Valeur: "serignesaliou.dioum@ucad.edu.sn"},
-      {Label: "Téléphone 1:", Valeur: "(+221) 77 279 62 45"},
-      {Label: "Téléphone 2:", Valeur: "(+221) 76 188 35 12"},
-    ],
-
-    anne_experience: [      
-      {Label: "Nombre année", Valeur: "2 ans (deux années)"},
-      {Label: "Date de démarrage", Valeur: "08 Novembre 2018"},
-      {Label: "Jusqu'à aujourd'hui", Valeur: new Date() },
-      {Label: "organisation", Valeur: "Obertys - Technologie financière"},
-    ],
-  }
+    name: 'Serigne Saliou Dioum',
+    profession: 'Développeur/Analyste',
+    addres: 'au Sénégal',
+  };
 
   render() {
     return (
       <div className="App">
-        <Container className="debut">
-          <Entete name="Serigne Saliou Mbacké Dioum" cvH2="cvH2" cvP="cvP" />
-        </Container>
-        <br />
-        <Container>
-            <Col>
-              <Menu 
-                menus_list={this.state.menus_list}
-                informations_list={this.state.informations_list}
-                anne_experience = {this.state.anne_experience}              
-              />
-            </Col>
-        </Container>
-        {/*
-      <Entete name="Serigne Saliou Mbacké Dioum" cvH2="cvH2" cvP="cvP"/>
-        <EnteteRight indicatif="+221" numeroOrange="77 279 62 45" numeroTigo="76 188 35 12" />
-        <Teteexperience /> */}
+        <div id="colorlib-page">
+          <Layout
+            name={this.state.name}
+            profession={this.state.profession}
+            addres={this.state.addres}
+            about={data.about}
+          />
+        </div>
       </div>
     );
   }

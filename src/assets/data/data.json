@@ -1,0 +1,44 @@
+{
+  "about": {
+    "title": "A propos de nous",
+    "quisommenous": "Qui sommes-nous?",
+    "intro": "Salut, je suis",
+    "name": "Serigne Saliou Mbacke Dioum",
+    "presentation1": "",
+    "presentation2": "",
+    "rows": [
+      {
+        "classCol": "col-md-3 animate-box",
+        "dataAnimateEffect": "fadeInLeft",
+        "classServices": "services color-1",
+        "classIcon": "icon-bulb",
+        "titleH3": "Graphic Design"
+      },
+      {
+        "classCol": "col-md-3 animate-box",
+        "dataAnimateEffect": "fadeInRight",
+        "classServices": "services color-2",
+        "classIcon": "icon-globe-outline",
+        "titleH3": "Web Design"
+      },
+      {
+        "classCol": "col-md-3 animate-box",
+        "dataAnimateEffect": "fadeInTop",
+        "classServices": "services color-3",
+        "classIcon": "icon-data",
+        "titleH3": "Software"
+      },
+      {
+        "classCol": "col-md-3 animate-box",
+        "dataAnimateEffect": "fadeInBottom",
+        "classServices": "services color-4",
+        "classIcon": "icon-phone3",
+        "titleH3": "Graphic Design"
+      }
+    ],
+    "appreciate": "I am happy to know you that 300+ projects done sucessfully!",
+    "Hireme": "Hire me"
+  },
+
+  "": {}
+}
