@@ -18,6 +18,7 @@ class App extends Component {
             profession={this.state.profession}
             addres={this.state.addres}
             about={data.about}
+            services={data.services}
           />
         </div>
       </div>

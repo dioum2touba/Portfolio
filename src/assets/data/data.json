@@ -40,5 +40,46 @@
     "Hireme": "Hire me"
   },
 
-  "": {}
+  "services": {
+    "whatIdo": "Ce que je fais?",
+    "expertise": "Voici quelques-unes de mes expertises",
+    "rows": [
+      {
+        "classColor": "services color-1",
+        "classIcon": "icon-bulb",
+        "title": "Innovative Ideas",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+      },
+      {
+        "classColor": "services color-2",
+        "classIcon": "icon-data",
+        "title": "Software",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+      },
+      {
+        "classColor": "services color-3",
+        "classIcon": "icon-phone3",
+        "title": "Application",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+      },
+      {
+        "classColor": "services color-4",
+        "classIcon": "icon-layers2",
+        "title": "Graphic Design",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+      },
+      {
+        "classColor": "services color-5",
+        "classIcon": "icon-data",
+        "title": "Software",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+      },
+      {
+        "classColor": "services color-6",
+        "classIcon": "icon-phone3",
+        "title": "Application",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+      }
+    ]
+  }
 }

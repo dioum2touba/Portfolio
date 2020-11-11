@@ -103,7 +103,11 @@ const Layout = (props) => {
           appreciate={props.about.appreciate}
           Hireme={props.about.Hireme}
         />
-        <Service />
+        <Service 
+          whatIdo={props.services.whatIdo}
+          expertise={props.services.expertise}
+          rows={props.services.rows}
+        />
         <Counters />
         <Skill />
         <Education />
