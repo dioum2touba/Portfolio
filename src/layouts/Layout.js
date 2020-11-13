@@ -108,11 +108,24 @@ const Layout = (props) => {
           expertise={props.services.expertise}
           rows={props.services.rows}
         />
-        <Counters />
-        <Skill />
-        <Education />
-        <Experience />
+        <Counters counter={props.counter} />
+        <Skill 
+          specialty={props.skill.specialty}
+          skills={props.skill.skills}
+          description={props.skill.description}
+          rows={props.skill.rows}
+        />
+        <Experience  
+          title={props.experience.title}
+          content={props.experience.content}
+          rows={props.experience.rows}
+        />
         <Work />
+        <Education 
+          tile1={props.education.tile1}
+          tile2={props.education.title2}
+          rows={props.education.rows}
+        />
         <Blog />
         <Contact />
       </div>

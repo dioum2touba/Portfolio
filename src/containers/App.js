@@ -19,6 +19,10 @@ class App extends Component {
             addres={this.state.addres}
             about={data.about}
             services={data.services}
+            skill={data.skill}
+            experience={data.experience}
+            counter={data.counter}
+            education={data.education}
           />
         </div>
       </div>

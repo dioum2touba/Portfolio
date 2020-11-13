@@ -8,7 +8,7 @@ const Navbar = () => {
           {/* <li class="active"><a href="#" data-nav-section="home">Home</a></li> */}
           <li>
             <a href="#" data-nav-section="about">
-              About
+              À propos
             </a>
           </li>
           <li>
@@ -18,22 +18,22 @@ const Navbar = () => {
           </li>
           <li>
             <a href="#" data-nav-section="skills">
-              Skills
+              Mes Compétences
+            </a>
+          </li>
+          <li>
+            <a href="#" data-nav-section="experience">
+              Expériences
+            </a>
+          </li>
+          <li>
+            <a href="#" data-nav-section="work">
+              Travail
             </a>
           </li>
           <li>
             <a href="#" data-nav-section="education">
               Education
-            </a>
-          </li>
-          <li>
-            <a href="#" data-nav-section="experience">
-              Experience
-            </a>
-          </li>
-          <li>
-            <a href="#" data-nav-section="work">
-              Work
             </a>
           </li>
           <li>

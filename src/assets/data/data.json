@@ -12,28 +12,28 @@
         "dataAnimateEffect": "fadeInLeft",
         "classServices": "services color-1",
         "classIcon": "icon-bulb",
-        "titleH3": "Graphic Design"
+        "titleH3": "Conception graphique"
       },
       {
         "classCol": "col-md-3 animate-box",
         "dataAnimateEffect": "fadeInRight",
         "classServices": "services color-2",
         "classIcon": "icon-globe-outline",
-        "titleH3": "Web Design"
+        "titleH3": "Création de sites web"
       },
       {
         "classCol": "col-md-3 animate-box",
         "dataAnimateEffect": "fadeInTop",
         "classServices": "services color-3",
         "classIcon": "icon-data",
-        "titleH3": "Software"
+        "titleH3": "développement de logiciel"
       },
       {
         "classCol": "col-md-3 animate-box",
         "dataAnimateEffect": "fadeInBottom",
         "classServices": "services color-4",
         "classIcon": "icon-phone3",
-        "titleH3": "Graphic Design"
+        "titleH3": "Conception graphique"
       }
     ],
     "appreciate": "I am happy to know you that 300+ projects done sucessfully!",
@@ -79,6 +79,168 @@
         "classIcon": "icon-phone3",
         "title": "Application",
         "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+      }
+    ]
+  },
+
+  "skill": {
+    "specialty": "My Specialty",
+    "skills": "My Skills",
+    "description": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.",
+    "rows": [
+      {
+        "classEffet": "fadeInLeft",
+        "title": "Photoshop",
+        "classColor": "progress-bar color-1",
+        "valuePercent": 75
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "jQuery",
+        "classColor": "progress-bar color-2",
+        "valuePercent": 60
+      },
+      {
+        "classEffet": "fadeInLeft",
+        "title": "HTML5",
+        "classColor": "progress-bar color-3",
+        "valuePercent": 85
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "CSS3",
+        "classColor": "progress-bar color-4",
+        "valuePercent": 90
+      },
+      {
+        "classEffet": "fadeInLeft",
+        "title": "WordPress",
+        "classColor": "progress-bar color-5",
+        "valuePercent": 70
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "SEO",
+        "classColor": "progress-bar color-6",
+        "valuePercent": 80
+      }
+    ]
+  },
+
+  "experience": {
+    "title": "Experience",
+    "content": "Work Experience",
+    "rows": [
+      {
+        "classEffet": "fadeInLeft",
+        "classColor": "timeline-icon color-1",
+        "classLink": "Full Stack Developer",
+        "classYear": "2017-2018",
+        "content": "Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may."
+      },
+      {
+        "classEffet": "fadeInRight",
+        "classColor": "timeline-icon color-2",
+        "classLink": "Front End Developer at Google Companyr",
+        "classYear": "2017-2018",
+        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+      },
+      {
+        "classEffet": "fadeInLeft",
+        "classColor": "timeline-icon color-3",
+        "classLink": "Full Stack Developer",
+        "classYear": "2017-2018",
+        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+      },
+      {
+        "classEffet": "fadeInTop",
+        "classColor": "timeline-icon color-4",
+        "classLink": "Creative Designer",
+        "classYear": "2017-2018",
+        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+      },
+      {
+        "classEffet": "fadeInLeft",
+        "classColor": "timeline-icon color-5",
+        "classLink": "UI/UX Designer at Envato",
+        "classYear": "2017-2018",
+        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+      }
+    ]
+  },
+
+  "counter": [
+    {
+      "nombre": "09",
+      "title": "Cups of coffee"
+    },
+    {
+      "nombre": "56",
+      "title": "Projects"
+    },
+    {
+      "nombre": "07",
+      "title": "Clients"
+    },
+    {
+      "nombre": "10",
+      "title": "Partners"
+    }
+  ],
+
+  "education": {
+    "tile1": "Education",
+    "tile2": "Education",
+    "rows": [
+      {
+        "id": "headingOne",
+        "classLink": "#collapseOne",
+        "expanded": false,
+        "classYear": "2017-2018",
+        "classCollapse": "collapseOne",
+        "title": "Master Degree Graphic Design",
+        "classPanel": "panel-collapse collapse in",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      },
+      {
+        "id": "headingTwo",
+        "classLink": "#collapseTwo",
+        "expanded": false,
+        "classYear": "2017-2018",
+        "classCollapse": "collapseTwo",
+        "title": " Bachelor Degree of Computer Science",
+        "classPanel": "panel-collapse collapse",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      },
+      {
+        "id": "headingThree",
+        "classLink": "#collapseThree",
+        "expanded": false,
+        "classYear": "2017-2018",
+        "classCollapse": "collapseThree",
+        "title": "Diploma in Information Technology",
+        "classPanel": "panel-collapse collapse",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      },
+      {
+        "id": "headingFour",
+        "classLink": "#collapseFour",
+        "expanded": false,
+        "classYear": "2017-2018",
+        "classCollapse": "collapseFour",
+        "title": "Diploma in Information Technology",
+        "classPanel": "panel-collapse collapse",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+      },
+      {
+        "id": "headingFive",
+        "classLink": "#collapseFive",
+        "expanded": false,
+        "classYear": "2017-2018",
+        "classCollapse": "collapseFive",
+        "title": "High School Secondary Education",
+        "classPanel": "panel-collapse collapse",
+        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
       }
     ]
   }
