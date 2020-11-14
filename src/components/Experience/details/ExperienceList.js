@@ -16,6 +16,7 @@ class ExperienceList extends Component {
                                     classLink={elt.classLink}
                                     classYear={elt.classYear}
                                     content={elt.content}
+                                    fonction={elt.fonction}
                                     key={key}
                                 />
                             )

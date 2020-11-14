@@ -9,7 +9,7 @@ const Contact = () => {
             className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
             data-animate-effect="fadeInLeft"
           >
-            <span className="heading-meta">Get in Touch</span>
+            <span className="heading-meta">Coordonnées</span>
             <h2 className="colorlib-heading">Contact</h2>
           </div>
         </div>
@@ -24,7 +24,8 @@ const Contact = () => {
               </div>
               <div className="colorlib-text">
                 <p>
-                  <a href="#">info@domain.com</a>
+                  <a href="#">dioum2touba@gmail.com</a><br />
+                  <a href="#">serignesaliou.dioum@ucad.edu.sn</a>
                 </p>
               </div>
             </div>
@@ -37,7 +38,7 @@ const Contact = () => {
                 <i className="icon-map"></i>
               </div>
               <div className="colorlib-text">
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                <p>Sipres 1, Dakar, Sénégal</p>
               </div>
             </div>
 
@@ -50,7 +51,7 @@ const Contact = () => {
               </div>
               <div className="colorlib-text">
                 <p>
-                  <a href="tel://">+123 456 7890</a>
+                  <a href="tel://">+221 77 279 62 45 <br />+221  76 188 35 12</a>
                 </p>
               </div>
             </div>
@@ -66,7 +67,7 @@ const Contact = () => {
                     <input
                       type="text"
                       className="form-control"
-                      placeholder="Name"
+                      placeholder="Nom"
                     />
                   </div>
                   <div className="form-group">
@@ -80,7 +81,7 @@ const Contact = () => {
                     <input
                       type="text"
                       className="form-control"
-                      placeholder="Subject"
+                      placeholder="Sujet"
                     />
                   </div>
                   <div className="form-group">
@@ -97,7 +98,7 @@ const Contact = () => {
                     <input
                       type="submit"
                       className="btn btn-primary btn-send-message"
-                      value="Send Message"
+                      value="Envoyer Message"
                     />
                   </div>
                 </form>

@@ -36,11 +36,11 @@ const Navbar = () => {
               Education
             </a>
           </li>
-          <li>
+          {/* <li>
             <a href="#" data-nav-section="blog">
               Blog
             </a>
-          </li>
+          </li> */}
           <li>
             <a href="#" data-nav-section="contact">
               Contact

@@ -49,31 +49,33 @@ const Layout = (props) => {
               <script>document.write(new Date().getFullYear());</script> All
               rights reserved. Made with{' '}
               <i className="icon-heart" aria-hidden="true"></i> by{' '}
-              <a href="https://colorlib.com" target="_blank">
-                Colorlib
+              <a href="https://www.linkedin.com/in/serigne-saliou-dioum-954303135/" target="_blank">
+                DIOUM2TOUBA
               </a>
               <span>
-                Distributed by{' '}
-                <a href="https://themewagon.com" target="_blank">
-                  ThemeWagon
+                Twitter 
+                <i className="icon-social-twitter"></i>{' '}
+                <a href="https://twitter.com/Serigne45353494" target="_blank">
+                  @Serigne45353494
                 </a>
               </span>{' '}
               <span>
-                Demo Images:{' '}
-                <a href="https://unsplash.com/" target="_blank">
-                  Unsplash.com
+                Github
+                <i className="icon-social-github"></i>{' '}
+                <a href="https://github.com/dioum2touba" target="_blank">
+                  dioum2touba
                 </a>
               </span>
             </small>
           </p>
           <ul>
             <li>
-              <a href="#">
+              <a href="https://www.facebook.com/DIOUM2TOUBA/">
                 <i className="icon-facebook2"></i>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://twitter.com/Serigne45353494">
                 <i className="icon-twitter2"></i>
               </a>
             </li>
@@ -83,7 +85,7 @@ const Layout = (props) => {
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/serigne-saliou-dioum-954303135/">
                 <i className="icon-linkedin2"></i>
               </a>
             </li>
@@ -126,7 +128,7 @@ const Layout = (props) => {
           tile2={props.education.title2}
           rows={props.education.rows}
         />
-        <Blog />
+        {/* <Blog /> */}
         <Contact />
       </div>
     </div>

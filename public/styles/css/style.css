@@ -649,6 +649,12 @@ body.offcanvas {
     border-bottom: 2px solid #2fa499; }
   .services.color-6 {
     border-bottom: 2px solid #4054b2; }
+  .services.color-7 {
+      border-bottom: 2px solid #283747 ; }
+  .services.color-8 {
+      border-bottom: 2px solid#145A32; }
+  .services.color-9 {
+      border-bottom: 2px solid #7B241C ; }
 
 .services {
   margin-bottom: 80px;
@@ -728,6 +734,27 @@ body.offcanvas {
       border-color: transparent transparent #4054b2 transparent; }
     .services.color-6 .icon:after {
       border-color: #4054b2 transparent transparent transparent; }
+
+  .services.color-7 .icon {
+    background: #283747; }
+    .services.color-7 .icon:before {
+      border-color: transparent transparent #283747 transparent; }
+    .services.color-7 .icon:after {
+      border-color: #283747 transparent transparent transparent; }
+
+  .services.color-8 .icon {
+    background:#145A32; }
+    .services.color-8 .icon:before {
+      border-color: transparent transparent#145A32 transparent; }
+    .services.color-8 .icon:after {
+      border-color:#145A32 transparent transparent transparent; }
+
+  .services.color-9 .icon {
+    background: #7B241C; }
+    .services.color-9 .icon:before {
+      border-color: transparent transparent #7B241C transparent; }
+    .services.color-9 .icon:after {
+      border-color: #7B241C transparent transparent transparent; }
 
 .progress-wrap h3 {
   font-size: 16px;

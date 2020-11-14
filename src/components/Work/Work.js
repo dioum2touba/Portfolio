@@ -17,31 +17,8 @@ const Work = () => {
             className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
             data-animate-effect="fadeInLeft"
           >
-            <span className="heading-meta">My Work</span>
-            <h2 className="colorlib-heading animate-box">Recent Work</h2>
-          </div>
-        </div>
-        <div
-          className="row row-bottom-padded-sm animate-box"
-          data-animate-effect="fadeInLeft"
-        >
-          <div className="col-md-12">
-            <p className="work-menu">
-              <span>
-                <a href="#" className="active">
-                  Graphic Design
-                </a>
-              </span>{' '}
-              <span>
-                <a href="#">Web Design</a>
-              </span>{' '}
-              <span>
-                <a href="#">Software</a>
-              </span>{' '}
-              <span>
-                <a href="#">Apps</a>
-              </span>
-            </p>
+            <span className="heading-meta">INFOGRAPHIE</span>
+            <h2 className="colorlib-heading animate-box">Conception graphique</h2>
           </div>
         </div>
         <div className="row">
@@ -56,9 +33,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 01</a>
+                    <a href="work.html">Application Marlodj</a>
                   </h3>
-                  <span>Website</span>
+                  <span>Conception graphique pour l'équipe mobile</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -91,9 +68,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 02</a>
+                    <a href="work.html">Association d'étudiant Gabonnais</a>
                   </h3>
-                  <span>Animation</span>
+                  <span>Logo pour leur association pour gérer les services des étudiants Gabonnais</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -123,9 +100,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 03</a>
+                    <a href="work.html">Application Marlodj</a>
                   </h3>
-                  <span>Illustration</span>
+                  <span>Conception graphique pour l'équipe mobile</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -158,9 +135,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 04</a>
+                    <a href="work.html">Application Marlodj</a>
                   </h3>
-                  <span>Application</span>
+                  <span>Conception graphique pour l'équipe mobile</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -193,9 +170,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 05</a>
+                    <a href="work.html">Application Marlodj</a>
                   </h3>
-                  <span>Graphic, Logo</span>
+                  <span>Conception graphique pour l'équipe mobile</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -228,9 +205,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 06</a>
+                    <a href="work.html">Application Marlodj</a>
                   </h3>
-                  <span>Web Design</span>
+                  <span>Conception graphique pour l'équipe mobile</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -263,9 +240,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 04</a>
+                    <a href="work.html">Association Religieuse</a>
                   </h3>
-                  <span>Application</span>
+                  <span>Conception de flyers pour la préparation du Grand Maga de Touba</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -298,9 +275,9 @@ const Work = () => {
               <div className="desc">
                 <div className="con">
                   <h3>
-                    <a href="work.html">Work 06</a>
+                    <a href="work.html">Association Religieuse de l'université Sine-Saloum</a>
                   </h3>
-                  <span>Web Design</span>
+                  <span>Logo pour leur association Religieuse</span>
                   <p className="icon">
                     <span>
                       <a href="#">
@@ -321,15 +298,6 @@ const Work = () => {
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12 animate-box">
-            <p>
-              <a href="#" className="btn btn-primary btn-lg btn-load-more">
-                Load more <i className="icon-reload"></i>
-              </a>
-            </p>
           </div>
         </div>
       </div>

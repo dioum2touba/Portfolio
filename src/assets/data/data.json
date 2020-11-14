@@ -66,19 +66,37 @@
         "classColor": "services color-4",
         "classIcon": "icon-layers2",
         "title": "REACT JS FRONTEND",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+        "content": "Pour batir des applications web côté frontal, on utilise ce framework basé sur Typescript/ES6 utilisant des Web Services."
       },
       {
         "classColor": "services color-5",
         "classIcon": "icon-layers2",
         "title": "ANGULAR FRONTEND",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+        "content": "En fonction des type d'applications, parfois nous choisissons ce framework pour développer des applications web frontals."
       },
       {
         "classColor": "services color-6",
         "classIcon": "icon-layers2",
         "title": "LARAVEL FRONTEND",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+        "content": "Framework PHP, utilisé pour concevoir des applications web et parfois couplé avec d'autre pour atteindre nos objectifs."
+      },
+      {
+        "classColor": "services color-7",
+        "classIcon": "icon-cloud-storage",
+        "title": "AZURE DEVOPS",
+        "content": "contrôle de version, de reporting, de gestion des exigences, de gestion de projet, de builds automatisés, de test et de gestion des versions."
+      },
+      {
+        "classColor": "services color-8",
+        "classIcon": "icon-data",
+        "title": "POWER BI DESKTOP",
+        "content": "visualisations interactives de pointe, avec des requêtes de données et une modélisation intégrées de pointe. Créez et publiez vos rapports sur Power BI."
+      },
+      {
+        "classColor": "services color-9",
+        "classIcon": "icon-data",
+        "title": "SSIS & SSAS & SSRS",
+        "content": "Conception d'ETL pour mise en place d'un data warehouse (DW or DWH) ensuite d'une cube de donnée pour les analyses multidimensionnelles."
       }
     ]
   },
@@ -86,7 +104,7 @@
   "skill": {
     "specialty": "Outils & langages",
     "skills": "Mes Compétences",
-    "description": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.",
+    "description": "D'après notre spécialité lors de nos formations, nous avons eu à manipuler des langages de programmation mais aussi nous avons eu à pratiquer d'autres pendant les années que nous avons passées en entreprise notamment",
     "rows": [
       {
         "classEffet": "fadeInLeft",
@@ -151,56 +169,105 @@
       {
         "classEffet": "fadeInLeft",
         "title": "WordPress",
-        "classColor": "progress-bar color-10",
+        "classColor": "progress-bar color-5",
+        "valuePercent": 80
+      },
+      {
+        "classEffet": "fadeInLeft",
+        "title": "PrestaShop",
+        "classColor": "progress-bar color-3",
         "valuePercent": 70
       },
       {
         "classEffet": "fadeInRight",
-        "title": "SEO",
-        "classColor": "progress-bar color-11",
+        "title": "Adobe Illustrator",
+        "classColor": "progress-bar color-4",
+        "valuePercent": 75
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "Adobe PhotoShop",
+        "classColor": "progress-bar color-5",
         "valuePercent": 80
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "MySQL & MARIADB",
+        "classColor": "progress-bar color-1",
+        "valuePercent": 85
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "SQL SERVER DATABASE",
+        "classColor": "progress-bar color-5",
+        "valuePercent": 80
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "POSTGRES SQL DATABASE",
+        "classColor": "progress-bar color-3",
+        "valuePercent": 70
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "MONGO DB NOSQL",
+        "classColor": "progress-bar color-2",
+        "valuePercent": 65
       }
     ]
   },
 
   "experience": {
-    "title": "Experience",
-    "content": "Work Experience",
+    "title": "Experiences",
+    "content": "Expériences professionnelles",
     "rows": [
       {
         "classEffet": "fadeInLeft",
         "classColor": "timeline-icon color-1",
-        "classLink": "Full Stack Developer",
-        "classYear": "2017-2018",
-        "content": "Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may."
+        "classLink": "Projets Workflow Dynamique",
+        "fonction": "Projet Configuration des processus",
+        "classYear": "ASP.NET Core MVC, SQL Server, C#, Html, Jquery, Javascript, Css",
+        "content": "Projet pour rendre dynamique la configurations des workflows (Gestion informatique des tâches et des acteurs dans un processus opérationnel, au moyen d’un logiciel) au sein d'une organisation. Dynamisme entre les étapes des processus d’ouverture de compte et l’octroi de crédit dans Customer Corner(Logiciel Bancaire)"
       },
       {
         "classEffet": "fadeInRight",
         "classColor": "timeline-icon color-2",
-        "classLink": "Front End Developer at Google Companyr",
-        "classYear": "2017-2018",
-        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+        "classLink": "Projet Banque Atlantique(BCP)",
+        "fonction": "Analyse/Conception/Responsable d’équipe",
+        "classYear": "SQL Server, C#, ASP.NET mvc, Razor, Javascript, Css, Hangfire",
+        "content": "Rendre configurable les pièces à joindre pour un type de compte donnée, Analyse et proposition de solution permettant d’automatiser la génération des tableaux d’amortissement, Reporting (Monitoring), Coordination et intégration des tâches avec Azure devOps. Un logiciel bancaire (appelé Customer Corner) qui permet de gérer l’ouverture de compte, l’analyse de crédit, le recouvrement et le dépôt-retrait pour la banque."
       },
       {
         "classEffet": "fadeInLeft",
         "classColor": "timeline-icon color-3",
-        "classLink": "Full Stack Developer",
-        "classYear": "2017-2018",
-        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+        "classLink": "Projets Microfinance Advans Côte d'ivoire",
+        "fonction": "Analyse/Conception/Responsable d’équipe",
+        "classYear": "SQL Server, C#, ASP.NET mvc, Razor, Javascript, Css",
+        "content": "Adapter le logiciel qui était en place aux besoins du client, Reporting (Monitoring), développer de nouvelles fonctionnalitées, — Coordination et intégration des tâches avec Azure devOps. Produit bancaire pour l’ouverture de compte des clients cibles en déplaçant la banque virtuellement chez eux."
       },
       {
         "classEffet": "fadeInTop",
         "classColor": "timeline-icon color-4",
-        "classLink": "Creative Designer",
-        "classYear": "2017-2018",
-        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+        "classLink": "Projet Microfinance Manko(SGBS)",
+        "fonction": "Analyse/Conception/Intégrateur d'API SMS Orange",
+        "classYear": "SQL Server, C#, ASP.NET mvc, Razor, Javascript, Css, Hangfire",
+        "content": " Intégrer l’API SMS Orange pour envoyer chaque jour automatique aux clients un sms pour les anniversaire, leurs échéances(concerne les clients qui ont des crédits) et pour rappeler les impayé, Développement du module SMS Banking dans la solution en intégrant l’API SMS Orange, Retoucher l’ergonomie de la solution(Design). Produit bancaire pour la simulation de crédit pour les clients, Offre de crédit et prédiction de paiement"
       },
       {
         "classEffet": "fadeInLeft",
         "classColor": "timeline-icon color-5",
-        "classLink": "UI/UX Designer at Envato",
-        "classYear": "2017-2018",
-        "content": "Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar."
+        "classLink": "Projet Marloj statistique",
+        "fonction": "Simulation de données bancaires",
+        "classYear": "SQL Server, SQL, Python",
+        "content": "Faire la simulation des activités bancaires en générant des données qui devait s’étendre sur plusieurs année, Ecrire et optimiser des requêtes pour l’équipe de data science, Générer des données cohérentes.  Mise en place d’une application qui permet aux clients de suivre la queue à distance et de faire des réservations d’opérations dans les banques les plus proches en fonction de la position du client."
+      },
+      {
+        "classEffet": "fadeInLeft",
+        "classColor": "timeline-icon color-3",
+        "classLink": "Projet Marloj API ",
+        "fonction": " Analyse / Conception / Responsable d’équipe API",
+        "classYear": " ASP.NET Core Web API, Swagger, SQL Server, C#",
+        "content": "Développer des API pour les demandes de l’équipe mobile et web, Optimisation des requêtes,  Intégration de la documentation de l’API avec l’outil swagger."
       }
     ]
   },
@@ -232,51 +299,41 @@
         "id": "headingOne",
         "classLink": "#collapseOne",
         "expanded": false,
-        "classYear": "2017-2018",
+        "classYear": "2018 - 2020",
         "classCollapse": "collapseOne",
-        "title": "Master Degree Graphic Design",
+        "title": "Master 2 en Business Intelligence mention bien",
         "classPanel": "panel-collapse collapse in",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+        "content": "Département Mathématique - Informatique, Université Cheikh Anta Diop de Dakar - Sénégal."
       },
       {
         "id": "headingTwo",
         "classLink": "#collapseTwo",
         "expanded": false,
-        "classYear": "2017-2018",
+        "classYear": "2017 - 2018",
         "classCollapse": "collapseTwo",
-        "title": " Bachelor Degree of Computer Science",
+        "title": "Master 1 en systéme d’information répartie",
         "classPanel": "panel-collapse collapse",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+        "content": "Département Mathématique - Informatique, Université Cheikh Anta Diop de Dakar - Sénégal."
       },
       {
         "id": "headingThree",
         "classLink": "#collapseThree",
         "expanded": false,
-        "classYear": "2017-2018",
+        "classYear": "2016 - 2017",
         "classCollapse": "collapseThree",
-        "title": "Diploma in Information Technology",
+        "title": "Licence en informatique",
         "classPanel": "panel-collapse collapse",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+        "content": "Département Mathématique - Informatique, Université Cheikh Anta Diop de Dakar - Sénégal."
       },
       {
         "id": "headingFour",
         "classLink": "#collapseFour",
         "expanded": false,
-        "classYear": "2017-2018",
+        "classYear": "2014 - 2016",
         "classCollapse": "collapseFour",
-        "title": "Diploma in Information Technology",
+        "title": "Licence 1 et 2 en Mathématique-Physique-Informatique",
         "classPanel": "panel-collapse collapse",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
-      },
-      {
-        "id": "headingFive",
-        "classLink": "#collapseFive",
-        "expanded": false,
-        "classYear": "2017-2018",
-        "classCollapse": "collapseFive",
-        "title": "High School Secondary Education",
-        "classPanel": "panel-collapse collapse",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+        "content": "Département Mathématique - Informatique, Université Cheikh Anta Diop de Dakar - Sénégal."
       }
     ]
   }

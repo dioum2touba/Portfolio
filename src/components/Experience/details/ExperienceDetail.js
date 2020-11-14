@@ -15,8 +15,17 @@ const ExperienceDetail = (props) => {
                 <h2>
                     <a href="#">{props.classLink}</a>{' '}
                     <span> {props.classYear} </span>
+                    <div className="divFonction">
+                        <h4>
+                            <span className="fonction">Fonction:</span> {' '}
+                            {props.fonction} 
+                        </h4>
+                    </div>
                 </h2>
-                <p> {props.content} </p>
+                <p>
+                    <span className="fonction">Description:</span> {' '}
+                    {props.content} 
+                </p>
                 </div>
             </div>
         </article>
