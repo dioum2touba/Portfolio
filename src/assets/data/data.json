@@ -1,43 +1,43 @@
 {
   "about": {
-    "title": "A propos de nous",
-    "quisommenous": "Qui sommes-nous?",
+    "title": "A propos de moi",
+    "quisommenous": "Qui Suis-je?",
     "intro": "Salut, je suis",
     "name": "Serigne Saliou Mbacke Dioum",
-    "presentation1": "",
-    "presentation2": "",
+    "presentation1": "Ingénieur d'étude et de développement de logiciel",
+    "presentation2": "Business intelligence/Analyste",
     "rows": [
       {
         "classCol": "col-md-3 animate-box",
         "dataAnimateEffect": "fadeInLeft",
         "classServices": "services color-1",
-        "classIcon": "icon-bulb",
-        "titleH3": "Conception graphique"
+        "classIcon": "icon-data",
+        "titleH3": "Business intelligence"
       },
       {
         "classCol": "col-md-3 animate-box",
         "dataAnimateEffect": "fadeInRight",
         "classServices": "services color-2",
         "classIcon": "icon-globe-outline",
-        "titleH3": "Création de sites web"
+        "titleH3": "Création de sites E-Commerce"
       },
       {
         "classCol": "col-md-3 animate-box",
         "dataAnimateEffect": "fadeInTop",
         "classServices": "services color-3",
-        "classIcon": "icon-data",
-        "titleH3": "développement de logiciel"
+        "classIcon": "icon-business-card",
+        "titleH3": "Développement de logiciel"
       },
       {
         "classCol": "col-md-3 animate-box",
         "dataAnimateEffect": "fadeInBottom",
         "classServices": "services color-4",
-        "classIcon": "icon-phone3",
-        "titleH3": "Conception graphique"
+        "classIcon": "icon-cloud-storage",
+        "titleH3": "Usine Production DevOps"
       }
     ],
-    "appreciate": "I am happy to know you that 300+ projects done sucessfully!",
-    "Hireme": "Hire me"
+    "appreciate": "Je suis très content de commencer à réaliser mes rêves d'enfance devenir un expert dans le domaine de l'informatique. Aujourd'hui je suis ingénieur dans ce domaine!",
+    "Hireme": "2 ans d'expériences"
   },
 
   "services": {
@@ -46,82 +46,118 @@
     "rows": [
       {
         "classColor": "services color-1",
-        "classIcon": "icon-bulb",
-        "title": "Innovative Ideas",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+        "classIcon": "icon-data",
+        "title": "ASP.NET CORE MVC/API",
+        "content": "Utilisé pour développer des logiciels de web, de bureau, de microservice, de Web Service ...etc basé sur .NET CORE"
       },
       {
         "classColor": "services color-2",
         "classIcon": "icon-data",
-        "title": "Software",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+        "title": "RUBY ON RAILS BACKEND",
+        "content": "Les logiciels côté serveur comme les web services, les microservices peuvent être développés avec ce framework"
       },
       {
         "classColor": "services color-3",
-        "classIcon": "icon-phone3",
-        "title": "Application",
-        "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
+        "classIcon": "icon-data",
+        "title": "Django CÔTE BACKEND",
+        "content": "Framework python, nous l'utilisons aussi pour concevoir des applications côté serveur comme les API/MICROSERVICES" 
       },
       {
         "classColor": "services color-4",
         "classIcon": "icon-layers2",
-        "title": "Graphic Design",
+        "title": "REACT JS FRONTEND",
         "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
       },
       {
         "classColor": "services color-5",
-        "classIcon": "icon-data",
-        "title": "Software",
+        "classIcon": "icon-layers2",
+        "title": "ANGULAR FRONTEND",
         "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
       },
       {
         "classColor": "services color-6",
-        "classIcon": "icon-phone3",
-        "title": "Application",
+        "classIcon": "icon-layers2",
+        "title": "LARAVEL FRONTEND",
         "content": "Separated they live in Bookmarksgrove right at the coast of the Semantics"
       }
     ]
   },
 
   "skill": {
-    "specialty": "My Specialty",
-    "skills": "My Skills",
+    "specialty": "Outils & langages",
+    "skills": "Mes Compétences",
     "description": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.",
     "rows": [
       {
         "classEffet": "fadeInLeft",
-        "title": "Photoshop",
+        "title": "C#",
         "classColor": "progress-bar color-1",
+        "valuePercent": 85
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "SQL",
+        "classColor": "progress-bar color-4",
         "valuePercent": 75
       },
       {
         "classEffet": "fadeInRight",
-        "title": "jQuery",
+        "title": "Python",
+        "classColor": "progress-bar color-3",
+        "valuePercent": 70
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "Javascript",
+        "classColor": "progress-bar color-4",
+        "valuePercent": 75
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "Typescript",
         "classColor": "progress-bar color-2",
-        "valuePercent": 60
+        "valuePercent": 65
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "PHP",
+        "classColor": "progress-bar color-1",
+        "valuePercent": 85
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "Java",
+        "classColor": "progress-bar color-3",
+        "valuePercent": 70
+      },
+      {
+        "classEffet": "fadeInRight",
+        "title": "jQuery",
+        "classColor": "progress-bar color-4",
+        "valuePercent": 75
       },
       {
         "classEffet": "fadeInLeft",
         "title": "HTML5",
-        "classColor": "progress-bar color-3",
+        "classColor": "progress-bar color-1",
         "valuePercent": 85
       },
       {
         "classEffet": "fadeInRight",
         "title": "CSS3",
-        "classColor": "progress-bar color-4",
+        "classColor": "progress-bar color-8",
         "valuePercent": 90
       },
       {
         "classEffet": "fadeInLeft",
         "title": "WordPress",
-        "classColor": "progress-bar color-5",
+        "classColor": "progress-bar color-10",
         "valuePercent": 70
       },
       {
         "classEffet": "fadeInRight",
         "title": "SEO",
-        "classColor": "progress-bar color-6",
+        "classColor": "progress-bar color-11",
         "valuePercent": 80
       }
     ]
@@ -171,20 +207,20 @@
 
   "counter": [
     {
-      "nombre": "09",
-      "title": "Cups of coffee"
+      "nombre": "03",
+      "title": "Certifications"
     },
     {
-      "nombre": "56",
+      "nombre": "11",
       "title": "Projects"
     },
     {
-      "nombre": "07",
+      "nombre": "05",
       "title": "Clients"
     },
     {
-      "nombre": "10",
-      "title": "Partners"
+      "nombre": "02",
+      "title": "Expériences"
     }
   ],
 

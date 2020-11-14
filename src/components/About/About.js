@@ -19,6 +19,7 @@ const About = (props) => {
                     <strong>
                       {props.intro} {props.name}
                     </strong>{' '}
+                    <br />
                     {props.presentation1}
                   </p>
                   <p>{props.presentation2}</p>
@@ -38,7 +39,7 @@ const About = (props) => {
                   </a>
                 </div>
               </div>
-            </div>
+            </div> 
           </div>
         </div>
       </div>

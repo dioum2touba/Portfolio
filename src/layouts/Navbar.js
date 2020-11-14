@@ -13,7 +13,7 @@ const Navbar = () => {
           </li>
           <li>
             <a href="#" data-nav-section="services">
-              Services
+              Outils/Framework
             </a>
           </li>
           <li>
@@ -23,12 +23,12 @@ const Navbar = () => {
           </li>
           <li>
             <a href="#" data-nav-section="experience">
-              Expériences
+              Expériences/Projets
             </a>
           </li>
           <li>
             <a href="#" data-nav-section="work">
-              Travail
+              Conception Graphique
             </a>
           </li>
           <li>
